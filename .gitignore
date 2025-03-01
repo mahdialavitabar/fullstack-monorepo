@@ -39,5 +39,6 @@ yarn-error.log*
 
 # IDE folders
 .idea
-.vscode
+.vscode/
+**/.vscode/
 *.suo
